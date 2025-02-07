@@ -1,6 +1,4 @@
-# itspoppin.github.io
-
- Its Popping and more!! balloons backdrops and decor! 
+Its Popping and more!! balloons backdrops and decor! 
 <html. lang="en">
 <head>
     <meta charset="UTF-8">
