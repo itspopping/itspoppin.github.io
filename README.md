@@ -1,5 +1,5 @@
-Its Popping and more!! balloons backdrops and decor! 
-<html. lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,7 +39,6 @@ Its Popping and more!! balloons backdrops and decor!
     <div class="content">
         <h1> If you would like to book, you can contact me by cell or you can find me at my many profiles.</h1>
         <p>Instagram: @itspoppinandmore</p>
-        <p>tiktok: @itspoppinandmore</p>
         <p>Facebook: it's poppin' and more</p>
         <p>Cell: (229)560-9382</p>
         <p>Balloons, Backdrops, and decor</p>
